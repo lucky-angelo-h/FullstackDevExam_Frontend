@@ -2,6 +2,10 @@
 
 ## Available Scripts
 
+Clone Reposiory
+
+### `git clone https://github.com/lucky-angelo-h/FullstackDevExam_Frontend.git`
+
 In the project directory, you can run:
 
 ### `npm install`
