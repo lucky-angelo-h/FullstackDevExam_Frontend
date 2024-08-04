@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs the app libraries.\
+Installs the app libraries.
 
 ### `npm run start --port 3001`
 
